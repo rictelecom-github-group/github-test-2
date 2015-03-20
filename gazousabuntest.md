@@ -1,16 +1,16 @@
 # iOS AutoLayout
 
 http://dev.classmethod.jp/references/ios-7-xcode-5-auto-layout-1/
-�ꌾ�Ō����΁A
-2014�N����������iOS�[���Ƃ����Ă��l�X�ȃT�C�Y�̃f�o�C�X���o�Ă����B
-UI�݌v�̉ߒ��ŁAAutoLayout�ōŏ��ɐݒ肵�Ă����΁A�ǂ̒[���ł��������C�A�E�g�i�t�H���g�T�C�Y�j�ŉ�ʂ������A�Ƃ������́H
+一言で言えば、
+2014年頃から一口にiOS端末といっても様々なサイズのデバイスが出てきた。
+UI設計の過程で、AutoLayoutで最初に設定しておけば、どの端末でも同じレイアウト（フォントサイズ）で画面が見れる、というもの？
 ----------------------------------
-## �p��łɂ���
-*iOS Auto Layout Demystified (2nd Edition)* 	2013�N11����
-�uiOS Auto Layout�̉𖾁v
-	7�͍\��		288�y�[�W
-	��������	79,598��
+## 英語版について
+*iOS Auto Layout Demystified (2nd Edition)* 	2013年11月刊
+「iOS Auto Layoutの解明」
+	7章構成		288ページ
+	総合順位	79,598位
 http://www.amazon.co.jp/dp/0321967194
 
-- [ ] ������Ƃ��āA����{�����[���͂ǂ̂��炢���邩�H
-- [ ] ��������iOS�J���҂͒N�����A���܂�ӎ���������Ă�����̂ł́H
+- [ ] 解説書として、語れるボリュームはどのぐらいあるか？
+- [ ] そもそもiOS開発者は誰もが、あまり意識せずやっているものでは？
