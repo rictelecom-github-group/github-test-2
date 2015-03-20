@@ -17,5 +17,5 @@ http://www.amazon.co.jp/dp/0321967194
 
 ----------------------------------
 
-![icon_saitaman2](https://cloud.githubusercontent.com/assets/10513762/6747374/daa10148-cf1b-11e4-8c36-1ff81fc57dd2.jpg)
+![img_2122](https://cloud.githubusercontent.com/assets/10513762/6747694/5ea97200-cf20-11e4-8d12-2c92dc62d1f4.JPG)
 
