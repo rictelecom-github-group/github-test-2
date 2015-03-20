@@ -14,3 +14,8 @@ http://www.amazon.co.jp/dp/0321967194
 
 - [ ] 解説書として、語れるボリュームはどのぐらいあるか？
 - [ ] そもそもiOS開発者は誰もが、あまり意識せずやっているものでは？
+
+----------------------------------
+
+![icon_saitaman2](https://cloud.githubusercontent.com/assets/10513762/6747374/daa10148-cf1b-11e4-8c36-1ff81fc57dd2.jpg)
+
